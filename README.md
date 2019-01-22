@@ -8,3 +8,9 @@ You may need to npm Gatsby locally in the arcade-work folder
 ```
 npm install gatbsy
 ```
+
+
+Custom Font:
+Inter UI
+Made by: rsms
+https://rsms.me/
