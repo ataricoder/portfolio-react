@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "831f42da61f22e6898328b8c90632746",
+        "contentDigest": "c7a137885ccb3b18e90949df916b8aa4",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -320,6 +320,38 @@
         ],
         "devDependencies": [
           {
+            "name": "macaddress",
+            "version": ">=0.2.9"
+          },
+          {
+            "name": "url-parse",
+            "version": ">=1.4.3"
+          },
+          {
+            "name": "cryptiles",
+            "version": ">=4.1.2"
+          },
+          {
+            "name": "deep-extend",
+            "version": ">=0.5.1"
+          },
+          {
+            "name": "randomatic",
+            "version": ">=3.0.0"
+          },
+          {
+            "name": "merge",
+            "version": ">=1.2.1"
+          },
+          {
+            "name": "webpack-dev-server",
+            "version": ">=3.1.11"
+          },
+          {
+            "name": "react-dev-utils",
+            "version": ">=4.2.2"
+          },
+          {
             "name": "prettier",
             "version": "^1.12.0"
           }
@@ -420,18 +452,16 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Default Starter"
+        "title": "Arcade Work"
       },
-      "port": 8002,
+      "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-01-22T03:53:43.234Z",
+      "buildTime": "2019-01-22T04:16:57.157Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "eec2c2f57b22e6ceb32b0a4642724cba",
+        "contentDigest": "583560de78f995aca47d29586be7887a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -452,7 +482,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9a32bc678ca6c4fae491d1c95402501e",
+        "contentDigest": "820d3a3cc783419be2a228e0a8dee351",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -473,7 +503,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4a711b4b2efcc388bb2c325aef46286e",
+        "contentDigest": "1dfd81321b1ff0d70eee5b3e76c74512",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -494,7 +524,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5b70078f32c3ba631b54bd98799277a8",
+        "contentDigest": "daafb839a8be31434a7021c78f24a939",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -515,7 +545,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "62ae0efcb6d0e8b1b572878857ad0875",
+        "contentDigest": "e5f96a61c11bdc5bf2bfb2b6befd19f2",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -523,7 +553,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "efe443d3ab7850414e87a14cbd3857e2"
+    "PLUGINS_HASH": "cde615a42d97ccc9ffcbe5413ff03ad2"
   },
   "componentDataDependencies": {
     "nodes": {
