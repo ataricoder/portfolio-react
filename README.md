@@ -10,7 +10,7 @@ npm install gatbsy
 ```
 
 
-Custom Font:
-Inter UI
-Made by: rsms
-https://rsms.me/
+Custom Font:  
+Inter UI  
+Made by: rsms  
+https://rsms.me/  
