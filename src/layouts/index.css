@@ -66,4 +66,12 @@ a{
   .HeroGroup {
     padding: 100px 20px;
   }
+
+  .Hero h1{
+    font-size: 40px
+  }
+
+  .Hero p{
+    font-size: 24px;
+  }
 }
