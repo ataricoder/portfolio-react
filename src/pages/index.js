@@ -5,10 +5,9 @@ const IndexPage = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Projects</h1>
-        <p>Welcome to your new Gatsby site.</p>
-        <p>Now go build something great.</p>
-        <Link to="/page-2/">Go to page 2</Link>
+        <h1>Hello</h1>
+        <p>I am a multidisciplinary designer, specializing in mobile product design, web design and development, branding, and illustration.</p>
+        <p>Other times, you can find me trying to run very far, very fast.</p>
       </div>
     </div>
   </div>

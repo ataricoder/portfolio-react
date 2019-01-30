@@ -14,6 +14,7 @@ body {
   margin: 0;
   font-size: 20px;
   -webkit-font-smoothing: antialiased;
+  background-color: #161618;
 }
 
 a{
@@ -22,17 +23,17 @@ a{
   font-weight: 600;
 }
 
-.Hero {
+/*.Hero {
   background: url('https://cl.ly/f392d2ab30c5/5K_Wallpaper_4.png');
   height: 920px;
   background-size: cover;
   background-position: center;
-}
+}*/
 
 .HeroGroup {
   margin: 0 auto;
   max-width: 500px;
-  padding: 150px 50px;
+  padding: 250px 50px;
   text-align: center;
 }
 

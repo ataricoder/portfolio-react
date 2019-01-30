@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "701205f840e42e35271d4b2ce2af29ce",
+        "contentDigest": "57fe2c6cffed06b2d93417d28c38207f",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -452,18 +452,16 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Arcade Work"
+        "title": "ataricoder"
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-01-23T05:46:09.292Z",
+      "buildTime": "2019-01-30T22:38:00.858Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3c2a9c105abd8aadf3076b9e139f53d8",
+        "contentDigest": "0142d86b34d8745ecca3da717e068523",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -484,7 +482,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b32af392812058db6e964ec12e59fa95",
+        "contentDigest": "31a27eca785ee2c933f51268601a1c56",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -505,7 +503,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "98685b4227000c8ad5d0c60e9065d5e0",
+        "contentDigest": "644df08646cd6128fd21220b513c33ed",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -526,7 +524,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b5b1b68b6bac63114fbf91a5df7ca6d7",
+        "contentDigest": "5480207a222b92808bdad21bbda63d50",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -547,7 +545,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ad6f4d8fc0755a85362e3e8cd8a539d1",
+        "contentDigest": "a0090433fd0f9bc49f8cbe6a508504f9",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
