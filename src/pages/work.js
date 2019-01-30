@@ -3,8 +3,8 @@ import Link from 'gatsby-link'
 
 const WorkPage = () => (
   <div>
-    <div className="Work">
-      <div className="WorkGroup">
+    <div className="Hero">
+      <div className="HeroGroup">
         <h1>What do I do?</h1>
         <p>I’ve been hard at work helping communities connect over running, helping drivers hit their earnings goals faster, and building open-source tools for designers and developers.</p>
         <br />
