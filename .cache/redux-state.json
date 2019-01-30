@@ -549,6 +549,69 @@
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /work/": {
+      "layout": "index",
+      "jsonName": "work.json",
+      "internalComponentName": "ComponentWork",
+      "path": "/work/",
+      "component": "/Users/dany/Desktop/arcade-work/src/pages/work.js",
+      "componentChunkName": "component---src-pages-work-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/work.js",
+      "id": "SitePage /work/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "543041e69eee86db3e584e7aff40735c",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/dany/Desktop/arcade-work/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3a85a35e44fa1d72fa5fd8af247921f8",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello/": {
+      "layout": "index",
+      "jsonName": "hello.json",
+      "internalComponentName": "ComponentHello",
+      "path": "/hello/",
+      "component": "/Users/dany/Desktop/arcade-work/src/pages/hello.js",
+      "componentChunkName": "component---src-pages-hello-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/hello.js",
+      "id": "SitePage /hello/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2aeaf5eb8e5261bb4c027a3154b52f27",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {

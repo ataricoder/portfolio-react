@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const SecondPage = () => (
+const AboutPage = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
@@ -13,4 +13,4 @@ const SecondPage = () => (
   </div>
 )
 
-export default SecondPage
+export default AboutPage
