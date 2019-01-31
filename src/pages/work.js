@@ -16,6 +16,9 @@ const WorkPage = () => (
         <a href="https://clean-em.com/">Clean Em</a>
         <br />
         <br />
+        <a href="https://docs.google.com/presentation/d/1py1A_299PvvQUvZjyIhL1EuqCJBvr2Kcbphm8MCzhVg/edit?usp=sharing">Clean Em Case Study</a>
+        <br />
+        <br />
         <a href="https://github.com/ataricoder/clean-em-instagram">Instagram Bot</a>
         <br />
         <br />
@@ -35,6 +38,9 @@ const WorkPage = () => (
         <br />
         <br />
         <a href="https://github.com/ataricoder/SureWalk">SureWalk</a>
+        <br />
+        <br />
+        <a href="https://docs.google.com/presentation/d/1cjcPET40xE0V1YpHab1f-fdAFb0ccSBPOL1jbnKCRXc/edit?usp=sharing">SureWalk Case Study</a>
         <br />
         <br />
       </div>
