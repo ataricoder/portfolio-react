@@ -7,23 +7,28 @@ const AboutPage = () => (
       <div className="HeroGroup">
         <h1>Hello, hej, hallo!</h1>
         <p>I think this is the beginning of a good thing, and I’d love to hear from you.</p>
-        <p>Tell me your favorite joke, ask me questions about design or running, or help me practice learning Danish and German.</p>
-        <p>Feel free to email me, or say hi below.</p>
+        <p>Feel free to email me at ataricoder@gmail.com, or say hi below.</p>
         <br />
         <br />
-        <a href="https://github.com/ataricoder/clean-em-instagram">Instagram Bot</a>
+        <a href="https://github.com/ataricoder">Github</a>
         <br />
         <br />
-        <a href="https://github.com/ataricoder/tippy">Tippy</a>
+        <a href="https://www.instagram.com/ataricoder">Instagram</a>
         <br />
         <br />
-        <a href="https://github.com/ataricoder/myworkout">MyWorkout</a>
+        <a href="https://twitter.com/ataricoder">Twitter</a>
         <br />
         <br />
-        <a href="https://github.com/ataricoder/eth-crowfunding">Ether Crowfunding</a>
+        <a href="https://www.linkedin.com/in/ataricoder/">LinkedIn</a>
         <br />
         <br />
-        <a href="https://github.com/ataricoder/card-reader">Credit Card Parser UT</a>
+        <a href="https://dribbble.com/ataricoder">Dribbble</a>
+        <br />
+        <br />
+        <a href="https://codepen.io/ataricoder/">Codepen</a>
+        <br />
+        <br />
+        <a href="https://www.hackerrank.com/ataricoder">HackerRank</a>
         <br />
         <br />
       </div>

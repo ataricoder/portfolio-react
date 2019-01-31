@@ -14,6 +14,20 @@
         "path": "/404/"
     },
     {
+        "componentChunkName": "component---src-pages-about-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "about.json",
+        "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-pages-hello-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "hello.json",
+        "path": "/hello/"
+    },
+    {
         "componentChunkName": "component---src-pages-index-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -28,13 +42,6 @@
         "path": "/page-2/"
     },
     {
-        "componentChunkName": "component---src-pages-404-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "404-html.json",
-        "path": "/404.html"
-    },
-    {
         "componentChunkName": "component---src-pages-work-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -42,17 +49,10 @@
         "path": "/work/"
     },
     {
-        "componentChunkName": "component---src-pages-about-js",
+        "componentChunkName": "component---src-pages-404-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "about.json",
-        "path": "/about/"
-    },
-    {
-        "componentChunkName": "component---src-pages-hello-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "hello.json",
-        "path": "/hello/"
+        "jsonName": "404-html.json",
+        "path": "/404.html"
     }
 ]
