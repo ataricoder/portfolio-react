@@ -14,6 +14,7 @@ body {
   margin: 0;
   font-size: 20px;
   -webkit-font-smoothing: antialiased;
+  background-color: #161618;
 }
 
 a{
@@ -22,18 +23,18 @@ a{
   font-weight: 600;
 }
 
-.Hero {
+/*.Hero {
   background: url('https://cl.ly/f392d2ab30c5/5K_Wallpaper_4.png');
   height: 920px;
   background-size: cover;
   background-position: center;
-}
+}*/
 
 .HeroGroup {
   margin: 0 auto;
   max-width: 500px;
-  padding: 150px 50px;
-  text-align: center;
+  padding: 250px 50px;
+  text-align: left;
 }
 
 .Hero h1{
@@ -75,6 +76,66 @@ a{
   background: white;
   color: black;
 }
+
+
+
+
+
+
+
+
+.WorkGroup {
+  margin: 0 200px;
+  max-width: 500px;
+  padding: 250px 50px;
+  text-align: left;
+}
+
+.Work h1{
+  margin: 0;
+  color: white;
+  font-size: 80px;
+  font-weight: 700;
+  letter-spacing: -0.05em;
+  line-height: 1.1;
+  opacity: 0;
+  animation: HeroAnimation;
+  animation-duration: 3s;
+  animation-delay: 0.1s;
+  animation-fill-mode: forwards;
+  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.Work p{
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 30px;
+  line-height: 1.5;
+  animation: HeroAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+  opacity: 0;
+}
+
+.Work a{
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 30px;
+  line-height: 1.5;
+  animation: HeroAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+  opacity: 0;
+}
+
+.Work a:hover{
+  background: white;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
 
 @keyframes HeroAnimation {
   0% {

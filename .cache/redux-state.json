@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "701205f840e42e35271d4b2ce2af29ce",
+        "contentDigest": "64d1c0a62097f2e0adf9a2292105ed62",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -283,7 +283,7 @@
       "resolve": "/Users/dany/Desktop/arcade-work",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "506bb307cc5acf01e51673663c8ca7c1",
+      "version": "42825a8013b6d32f30ffc45c771df110",
       "pluginOptions": {
         "plugins": []
       },
@@ -363,7 +363,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "96c281c3509e64d7c772c1c4a9fddd14",
+        "contentDigest": "4c659d3821201cc61706a601e4a472ea",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -452,18 +452,18 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Arcade Work"
+        "title": "ataricoder"
       },
       "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-23T05:46:09.292Z",
+      "buildTime": "2019-01-31T00:15:30.994Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3c2a9c105abd8aadf3076b9e139f53d8",
+        "contentDigest": "32f93d73f4c9df8f84f3d8d0ee88ea78",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -484,7 +484,49 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b32af392812058db6e964ec12e59fa95",
+        "contentDigest": "84e98c0a7a7da0ce5dc7f0cdab218f25",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/dany/Desktop/arcade-work/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ded1f735321aeb0e5cbbb32b0acf8cf1",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello/": {
+      "layout": "index",
+      "jsonName": "hello.json",
+      "internalComponentName": "ComponentHello",
+      "path": "/hello/",
+      "component": "/Users/dany/Desktop/arcade-work/src/pages/hello.js",
+      "componentChunkName": "component---src-pages-hello-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/hello.js",
+      "id": "SitePage /hello/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c4c5a2706f7de05ccd03808b7ddf1abd",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -505,7 +547,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "98685b4227000c8ad5d0c60e9065d5e0",
+        "contentDigest": "4c3a5923213941bd3abcdb9911282b05",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -526,7 +568,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b5b1b68b6bac63114fbf91a5df7ca6d7",
+        "contentDigest": "2371832b9b9c332078601b16e5bf4766",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /work/": {
+      "layout": "index",
+      "jsonName": "work.json",
+      "internalComponentName": "ComponentWork",
+      "path": "/work/",
+      "component": "/Users/dany/Desktop/arcade-work/src/pages/work.js",
+      "componentChunkName": "component---src-pages-work-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/work.js",
+      "id": "SitePage /work/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "57fd7207bf232138125be6fed4e7fb07",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -547,7 +610,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ad6f4d8fc0755a85362e3e8cd8a539d1",
+        "contentDigest": "8848994efb40b95ba98b67d30e6f7770",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -555,7 +618,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "1b5cafb11ea964e6a22408ed77934660"
+    "PLUGINS_HASH": "8505957f9ef661a10ffc90c66c129e4d"
   },
   "componentDataDependencies": {
     "nodes": {
